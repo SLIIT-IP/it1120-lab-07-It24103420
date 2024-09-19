@@ -4,7 +4,7 @@ public class IT24103420Lab7Q2B
 	{
 		for (int i=1; i<=5; i++)
 		{
-			System.out.print(i + " _ ");
+			System.out.print(i + " - ");
 			for (int j=1; j<=i; j++)
 			{
 				System.out.print("* ");
